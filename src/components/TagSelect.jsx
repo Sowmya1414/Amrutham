@@ -12,19 +12,19 @@ const TagSelect=()=> {
            </div>
            <div className="tags_container">
             <p className="tags_data">
-                Hair Care
+                Female
             </p>
             <FontAwesomeIcon icon="fa-solid fa-xmark" />
            </div>
            <div className="tags_container">
             <p className="tags_data">
-                Hair Care
+                ₹0 - ₹1000
             </p>
             <FontAwesomeIcon icon="fa-solid fa-xmark" />
            </div>
            <div className="tags_container">
             <p className="tags_data">
-                Hair Care
+                English
             </p>
             <FontAwesomeIcon icon="fa-solid fa-xmark" />
            </div>

@@ -313,18 +313,5 @@ padding: 2px;
         font-size: 18px;
     }
 
-    .book{
-        width: 50%;
-    }
-
-    .book__selected{
-        flex-direction: column;
-    }
-    .book__selected--figure{
-        width: 100%;
-        justify-content: flex-start;
-    }
-    .book__selected--description{
-        width: 100%;
-    }
+   
 }
